@@ -44,13 +44,6 @@
     </url>
     
     <url>
-        <loc>https://ibyond.com/messageboard/index.html</loc>
-        
-        <lastmod>2021-07-10</lastmod>
-        
-    </url>
-    
-    <url>
         <loc>https://ibyond.com/music/index.html</loc>
         
         <lastmod>2021-07-10</lastmod>
@@ -59,6 +52,13 @@
     
     <url>
         <loc>https://ibyond.com/photos/index.html</loc>
+        
+        <lastmod>2021-07-10</lastmod>
+        
+    </url>
+    
+    <url>
+        <loc>https://ibyond.com/messageboard/index.html</loc>
         
         <lastmod>2021-07-10</lastmod>
         
@@ -79,7 +79,7 @@
     </url>
     
     <url>
-        <loc>https://ibyond.com/posts/a5f28b7b/</loc>
+        <loc>https://ibyond.com/posts/e55fe323/</loc>
         
         <lastmod>2021-07-10</lastmod>
         
@@ -93,7 +93,7 @@
     </url>
     
     <url>
-        <loc>https://ibyond.com/posts/e55fe323/</loc>
+        <loc>https://ibyond.com/posts/a5f28b7b/</loc>
         
         <lastmod>2021-07-10</lastmod>
         
@@ -123,14 +123,14 @@
     </url>
     
     <url>
-        <loc>https://ibyond.com/tags/PHP/</loc>
+        <loc>https://ibyond.com/tags/Larave/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://ibyond.com/tags/%E5%8E%BB%E6%B0%B4%E5%8D%B0/</loc>
+        <loc>https://ibyond.com/tags/Laradock/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>
@@ -165,14 +165,14 @@
     </url>
     
     <url>
-        <loc>https://ibyond.com/tags/Larave/</loc>
+        <loc>https://ibyond.com/tags/PHP/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://ibyond.com/tags/Laradock/</loc>
+        <loc>https://ibyond.com/tags/%E5%8E%BB%E6%B0%B4%E5%8D%B0/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>
@@ -223,14 +223,14 @@
     </url>
     
     <url>
-        <loc>https://ibyond.com/categories/Nodejs/</loc>
+        <loc>https://ibyond.com/categories/Laravel/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://ibyond.com/categories/Laravel/</loc>
+        <loc>https://ibyond.com/categories/Nodejs/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>

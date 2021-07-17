@@ -78,6 +78,25 @@
   </entry>
   
   <entry>
+    <title>redis 基础命令操作指南</title>
+    <link href="https://ibyond.com/posts/78b568c7/"/>
+    <id>https://ibyond.com/posts/78b568c7/</id>
+    <published>2020-09-29T06:57:17.000Z</published>
+    <updated>2021-07-10T00:36:37.400Z</updated>
+    
+    
+    <summary type="html">redis 基础命令简单操作指南，方便以后查阅</summary>
+    
+    
+    
+    <category term="Redis" scheme="https://ibyond.com/categories/Redis/"/>
+    
+    
+    <category term="Redis" scheme="https://ibyond.com/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
     <title>加速镜像</title>
     <link href="https://ibyond.com/posts/56609aa6/"/>
     <id>https://ibyond.com/posts/56609aa6/</id>

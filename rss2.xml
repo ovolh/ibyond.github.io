@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>IByond</title>
+    <link>https://ibyond.com/</link>
+    
+    <image>
+      <url>https://ibyond.com/icon.png</url>
+      <title>IByond</title>
+      <link>https://ibyond.com/</link>
+    </image>
+    
+    <atom:link href="https://ibyond.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Stay Hungry, Stay Foolish.</description>
+    <pubDate>Fri, 16 Jul 2021 17:47:03 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://ibyond.com/posts/16107/</link>
+      <guid>https://ibyond.com/posts/16107/</guid>
+      <pubDate>Sun, 11 Jul 2021 01:25:20 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://ibyond.com/posts/16107/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>打造 iTerm2 + Oh My Zsh 终端环境</title>
+      <link>https://ibyond.com/posts/e403258e/</link>
+      <guid>https://ibyond.com/posts/e403258e/</guid>
+      <pubDate>Mon, 30 Nov 2020 08:50:01 GMT</pubDate>
+      
+      <description>记录下如何一步一步的打造属于自己的 Terminal，你如果想和我一样，直接 cv 大法 就可以搞一套一样的。</description>
+      
+      
+      
+      
+      <category domain="https://ibyond.com/categories/%E5%B7%A5%E5%85%B7/">工具</category>
+      
+      
+      <category domain="https://ibyond.com/tags/iTerm2/">iTerm2</category>
+      
+      <category domain="https://ibyond.com/tags/zsh/">zsh</category>
+      
+      
+      <comments>https://ibyond.com/posts/e403258e/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Docker 基本命令--镜像</title>
+      <link>https://ibyond.com/posts/6399d57/</link>
+      <guid>https://ibyond.com/posts/6399d57/</guid>
+      <pubDate>Thu, 12 Nov 2020 03:13:59 GMT</pubDate>
+      
+      <description>Docker 的镜像一些常用的基本命令介绍与使用</description>
+      
+      
+      
+      
+      <category domain="https://ibyond.com/categories/Docker/">Docker</category>
+      
+      
+      <category domain="https://ibyond.com/tags/Docker/">Docker</category>
+      
+      
+      <comments>https://ibyond.com/posts/6399d57/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>PHP 抖音视频去水印</title>
+      <link>https://ibyond.com/posts/a5f28b7b/</link>
+      <guid>https://ibyond.com/posts/a5f28b7b/</guid>
+      <pubDate>Mon, 12 Oct 2020 02:35:39 GMT</pubDate>
+      
+      <description>抖音视频去水印的实现原理和 php 的实现方式，附各种视频去水印的 composer 扩展包</description>
+      
+      
+      
+      
+      <category domain="https://ibyond.com/categories/PHP/">PHP</category>
+      
+      
+      <category domain="https://ibyond.com/tags/PHP/">PHP</category>
+      
+      <category domain="https://ibyond.com/tags/%E5%8E%BB%E6%B0%B4%E5%8D%B0/">去水印</category>
+      
+      
+      <comments>https://ibyond.com/posts/a5f28b7b/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>redis 基础命令操作指南</title>
+      <link>https://ibyond.com/posts/78b568c7/</link>
+      <guid>https://ibyond.com/posts/78b568c7/</guid>
+      <pubDate>Tue, 29 Sep 2020 06:57:17 GMT</pubDate>
+      
+      <description>redis 基础命令简单操作指南，方便以后查阅</description>
+      
+      
+      
+      
+      <category domain="https://ibyond.com/categories/Redis/">Redis</category>
+      
+      
+      <category domain="https://ibyond.com/tags/Redis/">Redis</category>
+      
+      
+      <comments>https://ibyond.com/posts/78b568c7/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>加速镜像</title>
+      <link>https://ibyond.com/posts/56609aa6/</link>
+      <guid>https://ibyond.com/posts/56609aa6/</guid>
+      <pubDate>Thu, 17 Sep 2020 09:20:48 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;加速镜像&quot;&gt;&lt;a href=&quot;#加速镜像&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://ibyond.com/categories/PHP/">PHP</category>
+      
+      <category domain="https://ibyond.com/categories/Nodejs/">Nodejs</category>
+      
+      
+      <category domain="https://ibyond.com/tags/Composer/">Composer</category>
+      
+      <category domain="https://ibyond.com/tags/Yarn/">Yarn</category>
+      
+      <category domain="https://ibyond.com/tags/npm/">npm</category>
+      
+      <category domain="https://ibyond.com/tags/ubuntu/">ubuntu</category>
+      
+      
+      <comments>https://ibyond.com/posts/56609aa6/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>(2020/9/11 更新) 常用 Laravel 开发扩展包</title>
+      <link>https://ibyond.com/posts/e55fe323/</link>
+      <guid>https://ibyond.com/posts/e55fe323/</guid>
+      <pubDate>Tue, 08 Sep 2020 09:20:17 GMT</pubDate>
+      
+      <description>日常使用的扩展我经常容易忘记，所以写这篇文章来记录常用的包，看扩展的流行程度和替代方案，会删除或添加扩展，会保持更新。</description>
+      
+      
+      
+      
+      <category domain="https://ibyond.com/categories/PHP/">PHP</category>
+      
+      <category domain="https://ibyond.com/categories/Laravel/">Laravel</category>
+      
+      
+      <category domain="https://ibyond.com/tags/Larave/">Larave</category>
+      
+      <category domain="https://ibyond.com/tags/Laradock/">Laradock</category>
+      
+      
+      <comments>https://ibyond.com/posts/e55fe323/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IByond</title>
+  <icon>https://ibyond.com/icon.png</icon>
+  <subtitle>Stay Hungry, Stay Foolish.</subtitle>
+  <link href="https://ibyond.com/atom.xml" rel="self"/>
+  
+  <link href="https://ibyond.com/"/>
+  <updated>2021-07-16T17:47:03.323Z</updated>
+  <id>https://ibyond.com/</id>
+  
+  <author>
+    <name>IByond</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ibyond.com/posts/16107/"/>
+    <id>https://ibyond.com/posts/16107/</id>
+    <published>2021-07-11T01:25:20.800Z</published>
+    <updated>2021-07-16T17:47:03.323Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>打造 iTerm2 + Oh My Zsh 终端环境</title>
+    <link href="https://ibyond.com/posts/e403258e/"/>
+    <id>https://ibyond.com/posts/e403258e/</id>
+    <published>2020-11-30T08:50:01.000Z</published>
+    <updated>2021-07-10T00:36:37.401Z</updated>
+    
+    
+    <summary type="html">记录下如何一步一步的打造属于自己的 Terminal，你如果想和我一样，直接 cv 大法 就可以搞一套一样的。</summary>
+    
+    
+    
+    <category term="工具" scheme="https://ibyond.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="iTerm2" scheme="https://ibyond.com/tags/iTerm2/"/>
+    
+    <category term="zsh" scheme="https://ibyond.com/tags/zsh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker 基本命令--镜像</title>
+    <link href="https://ibyond.com/posts/6399d57/"/>
+    <id>https://ibyond.com/posts/6399d57/</id>
+    <published>2020-11-12T03:13:59.000Z</published>
+    <updated>2021-07-10T00:36:37.400Z</updated>
+    
+    
+    <summary type="html">Docker 的镜像一些常用的基本命令介绍与使用</summary>
+    
+    
+    
+    <category term="Docker" scheme="https://ibyond.com/categories/Docker/"/>
+    
+    
+    <category term="Docker" scheme="https://ibyond.com/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP 抖音视频去水印</title>
+    <link href="https://ibyond.com/posts/a5f28b7b/"/>
+    <id>https://ibyond.com/posts/a5f28b7b/</id>
+    <published>2020-10-12T02:35:39.000Z</published>
+    <updated>2021-07-10T00:36:37.400Z</updated>
+    
+    
+    <summary type="html">抖音视频去水印的实现原理和 php 的实现方式，附各种视频去水印的 composer 扩展包</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://ibyond.com/categories/PHP/"/>
+    
+    
+    <category term="PHP" scheme="https://ibyond.com/tags/PHP/"/>
+    
+    <category term="去水印" scheme="https://ibyond.com/tags/%E5%8E%BB%E6%B0%B4%E5%8D%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>redis 基础命令操作指南</title>
+    <link href="https://ibyond.com/posts/78b568c7/"/>
+    <id>https://ibyond.com/posts/78b568c7/</id>
+    <published>2020-09-29T06:57:17.000Z</published>
+    <updated>2021-07-10T00:36:37.400Z</updated>
+    
+    
+    <summary type="html">redis 基础命令简单操作指南，方便以后查阅</summary>
+    
+    
+    
+    <category term="Redis" scheme="https://ibyond.com/categories/Redis/"/>
+    
+    
+    <category term="Redis" scheme="https://ibyond.com/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>加速镜像</title>
+    <link href="https://ibyond.com/posts/56609aa6/"/>
+    <id>https://ibyond.com/posts/56609aa6/</id>
+    <published>2020-09-17T09:20:48.000Z</published>
+    <updated>2021-07-10T00:36:37.400Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;加速镜像&quot;&gt;&lt;a href=&quot;#加速镜像&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="PHP" scheme="https://ibyond.com/categories/PHP/"/>
+    
+    <category term="Nodejs" scheme="https://ibyond.com/categories/Nodejs/"/>
+    
+    
+    <category term="Composer" scheme="https://ibyond.com/tags/Composer/"/>
+    
+    <category term="Yarn" scheme="https://ibyond.com/tags/Yarn/"/>
+    
+    <category term="npm" scheme="https://ibyond.com/tags/npm/"/>
+    
+    <category term="ubuntu" scheme="https://ibyond.com/tags/ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>(2020/9/11 更新) 常用 Laravel 开发扩展包</title>
+    <link href="https://ibyond.com/posts/e55fe323/"/>
+    <id>https://ibyond.com/posts/e55fe323/</id>
+    <published>2020-09-08T09:20:17.000Z</published>
+    <updated>2021-07-10T00:36:37.400Z</updated>
+    
+    
+    <summary type="html">日常使用的扩展我经常容易忘记，所以写这篇文章来记录常用的包，看扩展的流行程度和替代方案，会删除或添加扩展，会保持更新。</summary>
+    
+    
+    
+    <category term="PHP" scheme="https://ibyond.com/categories/PHP/"/>
+    
+    <category term="Laravel" scheme="https://ibyond.com/categories/Laravel/"/>
+    
+    
+    <category term="Larave" scheme="https://ibyond.com/tags/Larave/"/>
+    
+    <category term="Laradock" scheme="https://ibyond.com/tags/Laradock/"/>
+    
+  </entry>
+  
+</feed>

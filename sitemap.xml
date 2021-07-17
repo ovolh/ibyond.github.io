@@ -165,20 +165,6 @@
     </url>
     
     <url>
-        <loc>https://ibyond.com/tags/iTerm2/</loc>
-        <lastmod>2021-07-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
-        <loc>https://ibyond.com/tags/zsh/</loc>
-        <lastmod>2021-07-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
         <loc>https://ibyond.com/tags/Larave/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
@@ -187,6 +173,20 @@
     
     <url>
         <loc>https://ibyond.com/tags/Laradock/</loc>
+        <lastmod>2021-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://ibyond.com/tags/iTerm2/</loc>
+        <lastmod>2021-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://ibyond.com/tags/zsh/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>

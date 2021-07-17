@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://ibyond.com/about/index.html</loc>
+        <loc>https://ibyond.com/link/index.html</loc>
         
         <lastmod>2021-07-17</lastmod>
         
     </url>
     
     <url>
-        <loc>https://ibyond.com/link/index.html</loc>
+        <loc>https://ibyond.com/about/index.html</loc>
         
         <lastmod>2021-07-17</lastmod>
         
@@ -165,20 +165,6 @@
     </url>
     
     <url>
-        <loc>https://ibyond.com/tags/Larave/</loc>
-        <lastmod>2021-07-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
-        <loc>https://ibyond.com/tags/Laradock/</loc>
-        <lastmod>2021-07-17</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
         <loc>https://ibyond.com/tags/iTerm2/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
@@ -187,6 +173,20 @@
     
     <url>
         <loc>https://ibyond.com/tags/zsh/</loc>
+        <lastmod>2021-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://ibyond.com/tags/Larave/</loc>
+        <lastmod>2021-07-17</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://ibyond.com/tags/Laradock/</loc>
         <lastmod>2021-07-17</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.6</priority>

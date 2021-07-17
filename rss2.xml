@@ -15,31 +15,8 @@
     <atom:link href="https://ibyond.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Stay Hungry, Stay Foolish.</description>
-    <pubDate>Fri, 16 Jul 2021 17:47:03 GMT</pubDate>
+    <pubDate>Sat, 10 Jul 2021 00:36:37 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://ibyond.com/posts/16107/</link>
-      <guid>https://ibyond.com/posts/16107/</guid>
-      <pubDate>Sun, 11 Jul 2021 01:25:20 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://ibyond.com/posts/16107/#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>打造 iTerm2 + Oh My Zsh 终端环境</title>

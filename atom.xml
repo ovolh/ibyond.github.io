@@ -6,7 +6,7 @@
   <link href="https://ibyond.com/atom.xml" rel="self"/>
   
   <link href="https://ibyond.com/"/>
-  <updated>2021-07-16T17:47:03.323Z</updated>
+  <updated>2021-07-10T00:36:37.401Z</updated>
   <id>https://ibyond.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://ibyond.com/posts/16107/"/>
-    <id>https://ibyond.com/posts/16107/</id>
-    <published>2021-07-11T01:25:20.800Z</published>
-    <updated>2021-07-16T17:47:03.323Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>打造 iTerm2 + Oh My Zsh 终端环境</title>
